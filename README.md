@@ -1,6 +1,7 @@
 # Customize-Terminal-Linux
 With figlet, lolcat, and cowsay
 
+![Display in the terminal](https://user-images.githubusercontent.com/37952748/72699298-51a46a80-3b7a-11ea-874a-53fc96a3edae.png)
 
     1. Install figlet
         $ sudo apt-get install figlet
